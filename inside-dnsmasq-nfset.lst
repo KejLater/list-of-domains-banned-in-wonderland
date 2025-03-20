@@ -22,6 +22,7 @@ nftset=/adobe.com/4#inet#fw4#vpn_domains
 nftset=/ads-twitter.com/4#inet#fw4#vpn_domains
 nftset=/adultmult.tv/4#inet#fw4#vpn_domains
 nftset=/agents.media/4#inet#fw4#vpn_domains
+nftset=/agentura.ru/4#inet#fw4#vpn_domains
 nftset=/ahrefs.com/4#inet#fw4#vpn_domains
 nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/ai.com/4#inet#fw4#vpn_domains
