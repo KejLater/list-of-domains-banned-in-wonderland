@@ -804,7 +804,6 @@ nftset=/x.ai/4#inet#fw4#vpn_domains
 nftset=/x.com/4#inet#fw4#vpn_domains
 nftset=/xhamster.com/4#inet#fw4#vpn_domains
 nftset=/xhamsterlive.com/4#inet#fw4#vpn_domains
-nftset=/xsts.auth.xboxlive.com/4#inet#fw4#vpn_domains
 nftset=/xtracloud.net/4#inet#fw4#vpn_domains
 nftset=/xv-ru.com/4#inet#fw4#vpn_domains
 nftset=/xvideos.com/4#inet#fw4#vpn_domains
