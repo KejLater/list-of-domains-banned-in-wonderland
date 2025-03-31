@@ -1,1 +1,0 @@
-xsts.auth.xboxlive.com

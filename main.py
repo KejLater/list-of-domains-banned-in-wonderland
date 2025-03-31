@@ -3,7 +3,7 @@
 with open(r"inside-raw.lst", "r") as file:
     previous = file.readlines()
 
-previous.append('agentura.ru'+'\n')
+previous.append('xsts.auth.xboxlive.com'+'\n')
 
 previous = sorted(list(set(previous)))
 
