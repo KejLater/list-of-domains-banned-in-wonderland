@@ -3,7 +3,7 @@
 with open(r"inside-raw.lst", "r") as file:
     previous = file.readlines()
 
-previous.append('st.com'+'\n')
+previous.append('play.googleapis.com'+'\n')
 
 previous = sorted(list(set(previous)))
 
